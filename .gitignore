@@ -38,4 +38,4 @@ lerna-debug.log*
 .env
 
 #database folder
-/postgres
+/mysql_data
